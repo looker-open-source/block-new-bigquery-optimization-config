@@ -1,8 +1,6 @@
-project_name: "block-new-bigquery-optimization-config"
+project_name: "block-block-new-bigquery-optimization-config"
+  
+################ Constants ################
 
-# # Use local_dependency: To enable referencing of another project
-# # on this instance with include: statements
-#
-# local_dependency: {
-#   project: "name_of_other_project"
-# }
+# If needed TODO Define constants with "export: override_required" declared
+
