@@ -1,4 +1,4 @@
-project_name: "block-block-new-bigquery-optimization-config"
+project_name: "block-new-bigquery-optimization-config"
 
 ################ Constants ################
 
